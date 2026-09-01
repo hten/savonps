@@ -1,0 +1,20 @@
+{
+  "name": "Psykologi- ja psykoterapiapalvelut Kuopio",
+  "short_name": "Psykologille",
+  "start_url": "./",
+  "display": "browser",
+  "background_color": "#fbfaf9",
+  "theme_color": "#eae7e1",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
