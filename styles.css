@@ -393,7 +393,7 @@ h2 {
 
   h1 {
     width: 100%;
-    font-size: clamp(2.55rem, 10.6vw, 3.05rem);
+    font-size: clamp(2.35rem, 10.2vw, 3.05rem);
     line-height: 1.26;
     letter-spacing: -0.012em;
     overflow-wrap: anywhere;
